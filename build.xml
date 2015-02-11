@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="SuperCompuCampo" default="default" basedir=".">
-    <description>Builds, tests, and runs the project SuperCompuCampo.</description>
+<project name="SuperCompuCampoS" default="default" basedir=".">
+    <description>Builds, tests, and runs the project SuperCompuCampoS.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
